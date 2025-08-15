@@ -1,0 +1,1540 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\controllers\\firebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\controllers\\firebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\services\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\services\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\reponsemodel\\firebaserespondmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\reponsemodel\\firebaserespondmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\reponsemodel\\orderresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\reponsemodel\\orderresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\reponsemodel\\productresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\reponsemodel\\productresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\reponsemodel\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\reponsemodel\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\services\\kioskcameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\services\\kioskcameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\controllers\\kioskcameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\controllers\\kioskcameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\interfaces\\ikioskcameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\interfaces\\ikioskcameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\services\\kioskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\services\\kioskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\controllers\\kioskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\controllers\\kioskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\interfaces\\ikioskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\interfaces\\ikioskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\appstarts\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\appstarts\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\requestmodel\\kioskrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\requestmodel\\kioskrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\kiosk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\kiosk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\requestmodel\\orderrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\requestmodel\\orderrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\mapping\\kioskmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\mapping\\kioskmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\mapping\\ordermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\mapping\\ordermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\mapping\\orderdetailmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\mapping\\orderdetailmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\mapping\\imagemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\mapping\\imagemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\reponsemodel\\kioskrespondmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\reponsemodel\\kioskrespondmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\reponsemodel\\orderdetailresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\reponsemodel\\orderdetailresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\mapping\\productmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\mapping\\productmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\controllers\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\controllers\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\kioskcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\kioskcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\kioskimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\kioskimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\gpslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\gpslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\kioskaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\kioskaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\controllers\\vnpaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\controllers\\vnpaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\reponsemodel\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\reponsemodel\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\mapping\\paymentmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\mapping\\paymentmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\reponsemodel\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\reponsemodel\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\requestmodel\\queryrequest\\orderqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\requestmodel\\queryrequest\\orderqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\requestmodel\\orderdetailrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\requestmodel\\orderdetailrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\controllers\\vouchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\controllers\\vouchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\requestmodel\\voucherrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\requestmodel\\voucherrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\mapping\\vouchermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\mapping\\vouchermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\reponsemodel\\voucherresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\reponsemodel\\voucherresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\mapping\\userrolemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\mapping\\userrolemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\mapping\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\mapping\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\vnpaytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\vnpaytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\stagestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\stagestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\cartproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\cartproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.data\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53CD262-174C-42E6-88BE-43868C627443}|DianaShop.Data\\DianaShop.Data.csproj|solutionrelative:dianashop.data\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\requestmodel\\productrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\requestmodel\\productrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\requestmodel\\queryrequest\\productqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\requestmodel\\queryrequest\\productqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\requestmodel\\queryrequest\\basequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\requestmodel\\queryrequest\\basequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\services\\voucherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\services\\voucherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\interfaces\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\interfaces\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\reponsemodel\\userroleresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\reponsemodel\\userroleresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\dianashop.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\dianashop.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72676C92-4EFC-4741-AD94-A5FD119AE1A5}|DianaShop.Repository\\DianaShop.Repository.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.repository\\dianashop.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72676C92-4EFC-4741-AD94-A5FD119AE1A5}|DianaShop.Repository\\DianaShop.Repository.csproj|solutionrelative:dianashop.repository\\dianashop.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273A0F-8E36-45DE-A73F-50C0DBB30C6D}|DianaShop.API\\DianaShop.API.csproj|solutionrelative:dianashop.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72676C92-4EFC-4741-AD94-A5FD119AE1A5}|DianaShop.Repository\\DianaShop.Repository.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72676C92-4EFC-4741-AD94-A5FD119AE1A5}|DianaShop.Repository\\DianaShop.Repository.csproj|solutionrelative:dianashop.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|d:\\fpt\\9th\\sep490\\codebe\\be\\dianashop\\dianashop.service\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB7FFAA-F6DD-4996-927B-104E42629EDB}|DianaShop.Service\\DianaShop.Service.csproj|solutionrelative:dianashop.service\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1709560038:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirebaseController.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\FirebaseController.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\Controllers\\FirebaseController.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\FirebaseController.cs",
+              "RelativeToolTip": "DianaShop.API\\Controllers\\FirebaseController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:30:16.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\ReponseModel\\BaseResponse.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\BaseResponse.cs",
+              "RelativeToolTip": "DianaShop.Service\\ReponseModel\\BaseResponse.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:55:47.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderResponseModel.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\OrderResponseModel.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\ReponseModel\\OrderResponseModel.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\OrderResponseModel.cs",
+              "RelativeToolTip": "DianaShop.Service\\ReponseModel\\OrderResponseModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:55:56.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductResponseModel.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\ProductResponseModel.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\ReponseModel\\ProductResponseModel.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\ProductResponseModel.cs",
+              "RelativeToolTip": "DianaShop.Service\\ReponseModel\\ProductResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:40:26.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\SensorData.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\SensorData.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\SensorData.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\SensorData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:02:01.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\appsettings.json",
+              "RelativeDocumentMoniker": "DianaShop.API\\appsettings.json",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\appsettings.json*",
+              "RelativeToolTip": "DianaShop.API\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T12:36:35.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirebaseService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\FirebaseService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Services\\FirebaseService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\FirebaseService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Services\\FirebaseService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:27:14.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FirebaseRespondModel.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\FirebaseRespondModel.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\ReponseModel\\FirebaseRespondModel.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\FirebaseRespondModel.cs",
+              "RelativeToolTip": "DianaShop.Service\\ReponseModel\\FirebaseRespondModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:52:53.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KioskCameraController.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\KioskCameraController.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\Controllers\\KioskCameraController.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\KioskCameraController.cs",
+              "RelativeToolTip": "DianaShop.API\\Controllers\\KioskCameraController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:05:33.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IKioskCameraService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Interfaces\\IKioskCameraService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Interfaces\\IKioskCameraService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Interfaces\\IKioskCameraService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Interfaces\\IKioskCameraService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:06:29.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KioskCameraService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\KioskCameraService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Services\\KioskCameraService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\KioskCameraService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Services\\KioskCameraService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:58:11.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DianaShop.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T19:59:31.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KioskController.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\KioskController.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\Controllers\\KioskController.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\KioskController.cs",
+              "RelativeToolTip": "DianaShop.API\\Controllers\\KioskController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:07:56.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "DianaShop.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwJwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:57:42.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Services\\OrderService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\OrderService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Services\\OrderService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswF4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:55:59.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KioskService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\KioskService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Services\\KioskService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\KioskService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Services\\KioskService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:53:12.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\AppStarts\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\AppStarts\\DependencyInjection.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\AppStarts\\DependencyInjection.cs",
+              "RelativeToolTip": "DianaShop.API\\AppStarts\\DependencyInjection.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:07:32.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IKioskService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Interfaces\\IKioskService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Interfaces\\IKioskService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Interfaces\\IKioskService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Interfaces\\IKioskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:57:05.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KioskRequestModel.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\KioskRequestModel.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\RequestModel\\KioskRequestModel.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\KioskRequestModel.cs",
+              "RelativeToolTip": "DianaShop.Service\\RequestModel\\KioskRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:03:03.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KioskMapping.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\KioskMapping.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Mapping\\KioskMapping.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\KioskMapping.cs",
+              "RelativeToolTip": "DianaShop.Service\\Mapping\\KioskMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:53:22.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderRequestModel.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\OrderRequestModel.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\RequestModel\\OrderRequestModel.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\OrderRequestModel.cs",
+              "RelativeToolTip": "DianaShop.Service\\RequestModel\\OrderRequestModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T14:10:23.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Kiosk.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Kiosk.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\Kiosk.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Kiosk.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\Kiosk.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:37:46.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderMapping.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\OrderMapping.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Mapping\\OrderMapping.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\OrderMapping.cs",
+              "RelativeToolTip": "DianaShop.Service\\Mapping\\OrderMapping.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:35:27.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderDetailMapping.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\OrderDetailMapping.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Mapping\\OrderDetailMapping.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\OrderDetailMapping.cs",
+              "RelativeToolTip": "DianaShop.Service\\Mapping\\OrderDetailMapping.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:35:26.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ImageMapping.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\ImageMapping.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Mapping\\ImageMapping.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\ImageMapping.cs",
+              "RelativeToolTip": "DianaShop.Service\\Mapping\\ImageMapping.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:22:31.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "KioskRespondModel.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\KioskRespondModel.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\ReponseModel\\KioskRespondModel.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\KioskRespondModel.cs",
+              "RelativeToolTip": "DianaShop.Service\\ReponseModel\\KioskRespondModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:55:19.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Services\\OrderDetailService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\OrderDetailService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Services\\OrderDetailService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAMwHgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:59:34.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderDetailResponseModel.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\OrderDetailResponseModel.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\ReponseModel\\OrderDetailResponseModel.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\OrderDetailResponseModel.cs",
+              "RelativeToolTip": "DianaShop.Service\\ReponseModel\\OrderDetailResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:06:14.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductMapping.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\ProductMapping.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Mapping\\ProductMapping.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\ProductMapping.cs",
+              "RelativeToolTip": "DianaShop.Service\\Mapping\\ProductMapping.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:56:53.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Program.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\Program.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Program.cs",
+              "RelativeToolTip": "DianaShop.API\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T07:14:24.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\Controllers\\ImageController.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "DianaShop.API\\Controllers\\ImageController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwHkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T14:49:47.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserRoleController.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\UserRoleController.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\Controllers\\UserRoleController.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\UserRoleController.cs",
+              "RelativeToolTip": "DianaShop.API\\Controllers\\UserRoleController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwI8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:53:06.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Services\\ProductService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\ProductService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Services\\ProductService.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAwwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:49:49.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DianaShop.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:40:18.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Services\\AuthService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\AuthService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Services\\AuthService.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAjwFoBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T07:55:36.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Services\\UserService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\UserService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Services\\UserService.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAYwNIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T14:14:19.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Services\\ImageService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\ImageService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Services\\ImageService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T14:34:58.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "KioskCamera.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\KioskCamera.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\KioskCamera.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\KioskCamera.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\KioskCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:54:47.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\AppDbContext.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\AppDbContext.cs",
+              "RelativeToolTip": "DianaShop.Data\\AppDbContext.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:35:20.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "KioskImage.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\KioskImage.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\KioskImage.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\KioskImage.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\KioskImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:38:11.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\ProductImage.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\ProductImage.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\ProductImage.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:50:03.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GPSLocation.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\GPSLocation.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\GPSLocation.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\GPSLocation.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\GPSLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:38:02.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Image.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\Image.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Image.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:28:08.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "VNPayController.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\VNPayController.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\Controllers\\VNPayController.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\VNPayController.cs",
+              "RelativeToolTip": "DianaShop.API\\Controllers\\VNPayController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwCsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:43:45.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T14:17:54.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "KioskAddress.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\KioskAddress.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\KioskAddress.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\KioskAddress.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\KioskAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:38:18.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\UserRole.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\UserRole.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:54:05.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserResponseModel.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\UserResponseModel.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\ReponseModel\\UserResponseModel.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\UserResponseModel.cs",
+              "RelativeToolTip": "DianaShop.Service\\ReponseModel\\UserResponseModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:30:32.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Services\\PaymentService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\PaymentService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Services\\PaymentService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAWwDIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:45:51.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PaymentMapping.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\PaymentMapping.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Mapping\\PaymentMapping.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\PaymentMapping.cs",
+              "RelativeToolTip": "DianaShop.Service\\Mapping\\PaymentMapping.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:56:57.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\User.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\User.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:50:38.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PaymentResponseModel.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\PaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\ReponseModel\\PaymentResponseModel.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\PaymentResponseModel.cs",
+              "RelativeToolTip": "DianaShop.Service\\ReponseModel\\PaymentResponseModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:28:53.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrderQueryRequest.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\QueryRequest\\OrderQueryRequest.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\RequestModel\\QueryRequest\\OrderQueryRequest.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\QueryRequest\\OrderQueryRequest.cs",
+              "RelativeToolTip": "DianaShop.Service\\RequestModel\\QueryRequest\\OrderQueryRequest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA8wB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:21:21.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "DianaShop.API\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:20:00.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "OrderDetailRequestModel.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\OrderDetailRequestModel.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\RequestModel\\OrderDetailRequestModel.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\OrderDetailRequestModel.cs",
+              "RelativeToolTip": "DianaShop.Service\\RequestModel\\OrderDetailRequestModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:05:34.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "VoucherController.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\VoucherController.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\Controllers\\VoucherController.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\VoucherController.cs",
+              "RelativeToolTip": "DianaShop.API\\Controllers\\VoucherController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:02:01.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Interfaces\\IImageService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Interfaces\\IImageService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Interfaces\\IImageService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Interfaces\\IImageService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA4wBwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:02:34.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "VoucherRequestModel.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\VoucherRequestModel.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\RequestModel\\VoucherRequestModel.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\VoucherRequestModel.cs",
+              "RelativeToolTip": "DianaShop.Service\\RequestModel\\VoucherRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:59:23.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Voucher.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\Voucher.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Voucher.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\Voucher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:54:10.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "VoucherResponseModel.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\VoucherResponseModel.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\ReponseModel\\VoucherResponseModel.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\VoucherResponseModel.cs",
+              "RelativeToolTip": "DianaShop.Service\\ReponseModel\\VoucherResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:58:33.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserRoleMapping.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\UserRoleMapping.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Mapping\\UserRoleMapping.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\UserRoleMapping.cs",
+              "RelativeToolTip": "DianaShop.Service\\Mapping\\UserRoleMapping.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:58:02.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "VoucherMapping.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\VoucherMapping.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Mapping\\VoucherMapping.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\VoucherMapping.cs",
+              "RelativeToolTip": "DianaShop.Service\\Mapping\\VoucherMapping.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T14:21:43.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "VnPayTransaction.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\VnPayTransaction.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\VnPayTransaction.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\VnPayTransaction.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\VnPayTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:54:09.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UserMapping.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\UserMapping.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Mapping\\UserMapping.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Mapping\\UserMapping.cs",
+              "RelativeToolTip": "DianaShop.Service\\Mapping\\UserMapping.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:37:59.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "StageStatus.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\StageStatus.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\StageStatus.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\StageStatus.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\StageStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:51:06.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\Role.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Role.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:50:10.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\PaymentMethod.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\PaymentMethod.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:49:35.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\Payment.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Payment.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:45:02.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Size.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Size.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\Size.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Size.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:39:47.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\OrderDetail.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:39:21.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Schedule.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\Schedule.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Schedule.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\Schedule.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:38:28.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\Product.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Product.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:35:30.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\Order.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Order.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:34:09.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\Category.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Category.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:28:06.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CartProduct.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\CartProduct.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\CartProduct.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\CartProduct.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\CartProduct.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:28:03.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "DianaShop.Data\\Entities\\Cart.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Data\\Entities\\Cart.cs",
+              "RelativeToolTip": "DianaShop.Data\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:28:01.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ProductQueryRequest.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\QueryRequest\\ProductQueryRequest.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\RequestModel\\QueryRequest\\ProductQueryRequest.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\QueryRequest\\ProductQueryRequest.cs",
+              "RelativeToolTip": "DianaShop.Service\\RequestModel\\QueryRequest\\ProductQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T22:21:05.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "DianaShop.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswD4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T06:35:54.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ProductRequestModel.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\ProductRequestModel.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\RequestModel\\ProductRequestModel.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\ProductRequestModel.cs",
+              "RelativeToolTip": "DianaShop.Service\\RequestModel\\ProductRequestModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T22:21:43.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "BaseQuery.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\QueryRequest\\BaseQuery.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\RequestModel\\QueryRequest\\BaseQuery.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\RequestModel\\QueryRequest\\BaseQuery.cs",
+              "RelativeToolTip": "DianaShop.Service\\RequestModel\\QueryRequest\\BaseQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T22:21:24.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "VoucherService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\VoucherService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Services\\VoucherService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\VoucherService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Services\\VoucherService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:46:18.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Interfaces\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Interfaces\\IAuthServices.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Interfaces\\IAuthServices.cs",
+              "RelativeToolTip": "DianaShop.Service\\Interfaces\\IAuthServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:22:49.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "UserRoleResponseModel.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\UserRoleResponseModel.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\ReponseModel\\UserRoleResponseModel.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\ReponseModel\\UserRoleResponseModel.cs",
+              "RelativeToolTip": "DianaShop.Service\\ReponseModel\\UserRoleResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:30:51.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "DianaShop.Service.csproj",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\DianaShop.Service.csproj",
+              "RelativeDocumentMoniker": "DianaShop.Service\\DianaShop.Service.csproj",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\DianaShop.Service.csproj",
+              "RelativeToolTip": "DianaShop.Service\\DianaShop.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T09:21:51.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "DianaShop.Repository.csproj",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Repository\\DianaShop.Repository.csproj",
+              "RelativeDocumentMoniker": "DianaShop.Repository\\DianaShop.Repository.csproj",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Repository\\DianaShop.Repository.csproj",
+              "RelativeToolTip": "DianaShop.Repository\\DianaShop.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T09:12:52.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Dockerfile",
+              "RelativeDocumentMoniker": "DianaShop.API\\Dockerfile",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Dockerfile",
+              "RelativeToolTip": "DianaShop.API\\Dockerfile",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-09T07:32:01.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "VnPayService.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\VnPayService.cs",
+              "RelativeDocumentMoniker": "DianaShop.Service\\Services\\VnPayService.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Service\\Services\\VnPayService.cs",
+              "RelativeToolTip": "DianaShop.Service\\Services\\VnPayService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:46:04.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DianaShop.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DianaShop.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T07:56:04.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DianaShop.Repository\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\FPT\\9th\\SEP490\\CodeBE\\BE\\DianaShop\\DianaShop.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "DianaShop.Repository\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:11:45.09Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 175,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 114,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 114,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "67C4tWmU0dETv1FOMWfIRO5yYKbhIN9oat7cdAu8exk=",
+  "Source": "DianaShop.API",
+  "BasePath": "_content/DianaShop.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
